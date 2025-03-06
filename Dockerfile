@@ -1,1 +1,1 @@
-From nextcloud/all-in-one:latest
+FROM nvidia/cuda:12.6.0-base-ubuntu22.04
