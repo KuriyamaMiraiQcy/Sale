@@ -1,1 +1,1 @@
-FROM mongo:latest
+FROM --platform=linux/arm64 mongo:latest
